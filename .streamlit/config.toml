@@ -1,0 +1,8 @@
+[server]
+runOnSave = false
+fileWatcherType = "poll"
+port = 8501
+
+[browser]
+gatherUsageStats = false
+

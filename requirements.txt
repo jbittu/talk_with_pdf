@@ -1,0 +1,11 @@
+streamlit
+pypdf
+numpy
+faiss-cpu
+sentence-transformers
+transformers
+accelerate
+faster-whisper
+audio-recorder-streamlit
+langchain
+pyttsx3
