@@ -7,7 +7,7 @@ __pycache__/
 *.pyo
 *.pyd
 *.log
-
+*.env
 # IDE and OS files
 .vscode/
 .idea/
